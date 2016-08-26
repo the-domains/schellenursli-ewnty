@@ -1,4 +1,3 @@
-layout_spectrum: 0.5399983022361994
 typography_spectrum: 0.1787462909705937
 color:
   brandStrength: 0.8570035945158452
@@ -11,4 +10,6 @@ color:
     - '#FFFFFF'
     - '#AAAAAA'
     - '#DBDBDB'
+layout_spectrum: 0.5399983022361994
 name: Schellenursli
+description: Schellenurs.li
