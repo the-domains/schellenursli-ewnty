@@ -1,3 +1,4 @@
+layout_spectrum: 0.5399983022361994
 typography_spectrum: 0.1787462909705937
 color:
   brandStrength: 0.8570035945158452
@@ -5,12 +6,9 @@ color:
   saturation: 0.9194288461003453
   rhythmicContrast: 0.29479106259532273
   brandColors:
-    - '#010101'
-    - '#545454'
-    - '#FFFFFF'
-    - '#AAAAAA'
-    - '#DBDBDB'
-layout_spectrum: 0.5399983022361994
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
 name: Schellenursli
-title: Schellenurs.li
-description: 'Gadgets, Tools, Software, Skills'
